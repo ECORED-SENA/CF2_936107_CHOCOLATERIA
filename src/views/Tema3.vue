@@ -142,8 +142,8 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  h4 Manual técnico buenas prácticas 
-                  p.mb-0 Manual Técnico de cultivo de cacao, buenas prácticas para América Latina, Manejo de Postcosecha del Cacao. páginas 84 a 99. 
+                  h4 Manipulación de alimentos
+                  p.mb-0 Para profundizar en el aprendizaje, le invitamos a conocer el contenido del ¨Manual de capacitación para manipuladores de alimentos¨ de la OPS.
                 .col-sm-auto
                   a.boton.color-acento-botones(:href="obtenerLink('/downloads/Manual_capacitacion_manipuladores-alimentos.pdf')" target="_blank")
                     span Descargar
@@ -193,9 +193,9 @@
                 p(data-aos="fade-down").mb-0 Uno de los subproductos más usados en el proceso de transformación industrial de los granos de cacao es la manteca de cacao, por sus características químicas y físicas, que le confieren propiedades funcionales muy solicitadas en la industria alimentaria.      
             .col-lg-5.img-e
               img.img-e(data-aos="zoom-in")(src='@/assets/curso/temas/4.png', alt='')
-      p(data-aos="fade-down") Estas propiedades son muy convenientes en la manufactura de una gran variedad de productos en la industria chocolatera, cosmética y farmacéutica.
+      p(data-aos="fade-down") Estas propiedades son muy convenientes en la manufactura de una gran variedad de productos en la industria <b>chocolatera, cosmética y farmacéutica</b>.
 
-      p(data-aos="fade-down").mb-5 No siendo comparable con el resto de las grasas vegetales comestibles, la principal razón de su uso es su inapreciable característica de fusión; a temperatura normal, por debajo de 26 ºC, es dura y brillante, por lo que se funde rápidamente y por completo a la temperatura corporal. Es amplio el espectro de rangos de fusión que cubre la manteca de cacao; la fusión incipiente está comprendida entre 31,2 - 32,7 ºC, y la completa, entre 32 - 34 ºC.
+      p(data-aos="fade-down").mb-5 No siendo comparable con el resto de las grasas vegetales comestibles, la principal razón de su uso es su inapreciable <b>característica de fusión</b>; a temperatura normal, por debajo de 26 ºC, es dura y brillante, por lo que se funde rápidamente y por completo a la temperatura corporal. Es amplio el espectro de rangos de fusión que cubre la manteca de cacao; la fusión incipiente está comprendida entre 31,2 - 32,7 ºC, y la completa, entre 32 - 34 ºC.
 
       .row.justify-content-center.align-items-center    
         .col-lg-10
@@ -213,7 +213,7 @@
             .col-2
               img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/40.svg', alt='')
             .col-10
-              p(data-aos="fade-down").mb-0 El saco de cacao tiene alrededor de 60 kg de peso y no se deben almacenar por más de 6 filas, ya que el propio peso puede fracturar los granos, generando nuevamente residuos no aceptables para el proceso de transformación.#[b.bwn Los granos deben estar enteros, libres de insectos, basuras y piedras. Los sacos se estiban o colocan sobre polines de madera para evitar que entren en contacto con el suelo.]
+              p(data-aos="fade-down").mb-0 El saco de cacao tiene alrededor de 60 kg de peso y no se deben almacenar por más de 6 filas, ya que el propio peso puede fracturar los granos, generando nuevamente residuos no aceptables para el proceso de transformación. #[b.bwn Los granos deben estar enteros, libres de insectos, basuras y piedras. Los sacos se estiban o colocan sobre polines de madera para evitar que entren en contacto con el suelo.]
 
       .row.justify-content-center.align-items-center.my-5           
         .col-lg-10(data-aos="flip-down")
@@ -225,11 +225,11 @@
                 .row.justify-content-between.align-items-center
                   .col.mb-3.mb-sm-0
                     h4 Red Cacaotera de Colombia
-                    p.mb-0 Para ampliar sus conocimientos sobre el cultivo del cacao en Colombia, le invito a ingresar a las siguientes dos páginas web y navegarlas.
+                    p.mb-0 Para ampliar sus conocimientos sobre el cultivo del cacao en Colombia, le invito a ingresar a las siguientes dos páginas <i>web</i> y navegarlas.
 
                   .col-sm-auto
                     a.boton.color-acento-botones(href="https://www.redcacaotera.com.co/" target="_blank")
-                      span Enlace web
+                      span Enlace <i>web</i>
                       i.fas.fa-link    
 
       .row.justify-content-center.align-items-center.my-5           
@@ -245,7 +245,7 @@
                     p.mb-0 En adición, es importante conocer el proceso de cosecha y beneficio del cacao, como parte de su clasificación y almacenamiento, por lo que le invitamos a revisar el siguiente video.
                   .col-sm-auto
                     a.boton.color-acento-botones(href="https://aprocasur.org/" target="_blank")
-                      span Enlace web
+                      span Enlace <i>web</i>
                       i.fas.fa-link  
                   .col-sm-auto
                     a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=BOGWZWfrxHw" target="_blank")

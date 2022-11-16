@@ -24,29 +24,16 @@
               .col
                 .row.justify-content-between.align-items-center
                   .col.mb-3.mb-sm-0
-                    h4 Red Cacaotera de Colombia
-                    p.mb-0 Para ampliar sus conocimientos sobre el cultivo del cacao en Colombia, le invito a ingresar a las siguientes dos páginas web y navegarlas.
-
+                    h4 Normatividad
+                    p.mb-0 Para consultar sobre la normatividad vigente en temas de calidad del grano del cacao, puede acceder a las siguientes páginas:
                   .col-sm-auto
                     a.boton.color-acento-botones(href="https://www.iso.org/standard/7116.html" target="_blank")
                       span Enlace web
                       i.fas.fa-link    
-
-      .row.justify-content-center.align-items-center.my-5           
-        .col-lg-10(data-aos="flip-down")
-          .tarjeta.color-primario.p-3
-            .row.justify-content-around.align-items-center
-              .col-3.col-sm-2.col-lg-1
-                img(src="@/assets/curso/temas/41.svg")
-              .col
-                .row.justify-content-between.align-items-center
-                  .col.mb-3.mb-sm-0
-                    h4 Procasur
-                    p.mb-0 En adición, es importante conocer el proceso de cosecha y beneficio del cacao, como parte de su clasificación y almacenamiento, por lo que le invitamos a revisar el siguiente video.
                   .col-sm-auto
                     a.boton.color-acento-botones(href="https://colombiamide.inm.gov.co/nuevas-normas-o-estandares-disponibles-para-las-cadenas-de-cacao-y-aguacate-hass-aprobados-por-icontec-y-gestionados-por-colombiamide/" target="_blank")
                       span Enlace web
-                      i.fas.fa-link 
+                      i.fas.fa-link                          
 
       p(data-aos="fade-down").mb-5 En este proceso, se hace necesario conocer cómo y en qué forma se hace la toma de muestras del cacao, con el fin de mantener la calidad del producto, lo que puede revisar en el siguiente contenido:
       .row.justify-content-center.align-items-center      

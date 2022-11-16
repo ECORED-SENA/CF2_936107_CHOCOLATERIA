@@ -109,6 +109,9 @@
               p.mb-0 El #[b.bwn cacao rallado] es un líquido viscoso obtenido mediante la molienda refinada de granos de cacao tratados térmicamente, en este caso, se usan bolsas multicapa u otros envases que garantizan un sellado adecuado y la protección contra los efectos externos nocivos.
                 br
                 br
+                | En Colombia, como envase para el transporte internacional de #[b.bwn granos de cacao], se utilizan bolsas densas, de #[b.bwn fibras gruesas naturales (yute o sisal)]. Este fuerte embalaje ayuda a mantener las propiedades de consumo de los productos.              
+                br
+                br
                 | Por otro lado, el #[b.bwn cacao crudo] se transporta en los llamados #[b.bwn "contenedores de café"] con #[b.bwn ventilación natural. Una condición importante para el transporte es que los productos, el contenedor y el recubrimiento superficial del contenedor deben tener el menor contenido de agua posible.]  
        
           p(data-aos="fade-down") En adición, las superficies del recipiente deben estar #[b.bwn secas y limpias, con un porcentaje de humedad que no exceda los límites prescritos], ya que minimizar la humedad ayuda a evitar la formación adicional de vapor de agua dentro del recipiente y previene daños y descomposición.

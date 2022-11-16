@@ -20,9 +20,9 @@
             .col-lg-5.img-e
               img.img-e(data-aos="zoom-in")(src='@/assets/curso/temas/4.png', alt='')  
 
-      p(data-aos="fade-down") Cualquier empresa del siglo XXI que busque la implementación de la transformación e innovación digital debe implementar sistemas informáticos o softwares que proporcionen un apoyo digital en la creación de las órdenes de compra y de entrega de los productos, los cuales permiten el registro, control de las cantidades, descripción de productos, costos de compra y venta, etc.
+      p(data-aos="fade-down") Cualquier empresa del siglo XXI que busque la implementación de la transformación e innovación digital debe implementar sistemas informáticos o <i>softwares</i> que proporcionen un apoyo digital en la creación de las órdenes de compra y de entrega de los productos, los cuales permiten el registro, control de las cantidades, descripción de productos, costos de compra y venta, etc.
 
-      p(data-aos="fade-down").mb-5 Por lo anterior, las organizaciones pueden usar algunos formatos que se encuentran gratis en la web o, si lo prefieren, realizar la compra de todo el sistema digital a un proveedor, quien realizará una capacitación en el manejo y registro de cada formato. A continuación, podrá ver un ejemplo de un formato de control de inventarios:
+      p(data-aos="fade-down").mb-5 Por lo anterior, las organizaciones pueden usar algunos formatos que se encuentran gratis en la <i>web</i> o, si lo prefieren, realizar la compra de todo el sistema digital a un proveedor, quien realizará una capacitación en el manejo y registro de cada formato. A continuación, podrá ver un ejemplo de un formato de control de inventarios:
 
       .titulo-sexto.color-acento-contenido(data-aos="zoom-in-left")
         h5 Figura 1. 
@@ -54,9 +54,9 @@
     p(data-aos="fade-down") El establecimiento de un sistema de calidad en la empresa proporcionará los mecanismos para la ejecución de las diferentes actividades de los procesos de producción, así como los formatos necesarios y su guía de elaboración, los cuales deben ser socializados con todos los colaboradores y designar las responsabilidades de los encargados de su diligenciamiento. 
 
     p(data-aos="fade-down").mb-5 Entre los formatos que se destacan en el proceso del cacao, se encuentran los siguientes: 
-    .row.justify-content-center.align-items-center.mb-5           
-      .col-lg-10    
-        ImagenInfograficaB.color-acento-botones.mb-5(data-aos="zoom-in")
+    .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in")            
+      .col-lg-10  
+        ImagenInfograficaB.color-acento-botones.mb-5
           template(v-slot:imagen)
             figure
               img(src='@/assets/curso/temas/7.svg', alt='')
@@ -147,9 +147,9 @@
           img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/12.png', alt='')  
 
         .col-lg-6.my-3
-          p(data-aos="fade-down") El correcto diligenciamiento de estos formatos permite tener registro de cada una de las acciones realizadas, ya sea físico o digital. En ocasiones, es recomendable realizar un registro físico y uno digital por cuestiones de seguridad en el almacenamiento de la información, ya que así no se corre el riesgo de perder los datos por posibles contratiempos que se puedan presentar. 
+          p(data-aos="fade-down") El correcto diligenciamiento de estos formatos permite tener registro de cada una de las acciones realizadas, ya sea físico o digital. En ocasiones, es recomendable realizar un registro <b>físico</b> y uno <b>digital</b> por cuestiones de <b>seguridad en el almacenamiento de la información</b>, ya que así no se corre el riesgo de perder los datos por posibles contratiempos que se puedan presentar. 
 
-          p(data-aos="fade-down") Como se mencionó anteriormente, el sistema de calidad es una herramienta necesaria y eficaz para el manejo de la información registrada, debido a que permite conocer los mecanismos de diligenciamiento de los formatos a través de guías para los mismos, así como la metodología para el manejo de la información.
+          p(data-aos="fade-down") Como se mencionó anteriormente, el <b>sistema de calidad es una herramienta necesaria y eficaz para el manejo de la información registrada</b>, debido a que permite conocer los mecanismos de diligenciamiento de los formatos a través de guías para los mismos, así como la metodología para el manejo de la información.
 
           p(data-aos="fade-down") Partiendo de lo anterior, se presenta a continuación una serie de recomendaciones que se deben tener en cuenta para su diligenciamiento: 
 
