@@ -23,7 +23,7 @@
       .col-lg-12(data-aos="fade-left")     
         figure
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/ertzWvG-I2Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     .row.justify-content-center.align-items-center.mb-5           
       .col-lg-10      
@@ -181,7 +181,7 @@
       .col-lg-12(data-aos="fade-left")     
         figure
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/EnyKh59GG98" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     .bg14
       p(data-aos="fade-down").mb-5 Como se puede concluir en el video, los tipos de cacao más producidos en Colombia son: el criollo, el forastero y el trinitario; cada uno de ellos tiene sus propias características en cuanto a color, sabor, textura, aroma, y por ende los subproductos que se logran también varían en calidad, como son: #[b.bwn pasta o licor, manteca, tortas y polvo de cacao]. En adición, los productos finales son principalmente los chocolates y demás artículos elaborados a base de chocolate, tales como: #[b.bwn coberturas, golosinas, barras de chocolate amargo, de leche, blanco, con frutas, nueces, bombones], entre otros. 
       .row.justify-content-center.align-items-center        
