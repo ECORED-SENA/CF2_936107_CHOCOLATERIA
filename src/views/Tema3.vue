@@ -38,10 +38,10 @@
 
     p(data-aos="fade-down").mb-5 Para la elaboración del chocolate, se necesitan diversos subproductos del cacao, como son: el polvo del cacao, manteca del cacao y azúcar. 
 
-    .row.justify-content-center.align-items-center.mb-5.bg10.p-4           
-      .col-1
+    .row.justify-content-center.align-items-center.mb-5.bg10.p-1          
+      .col-auto.my-3
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/31.svg', alt='')
-      .col-9
+      .col-9.my-3
         p(data-aos="fade-down").mb-0 #[b.bwn Los subproductos se obtienen realizando un proceso de sustracción del grano del cacao], que es sometido a los procesos de #[b.bwn tostado, molienda, alcalinización, mezcla, molino, conchado, temperado, moldeado y envasado]. Cada uno de estos procesos es necesario para convertir la materia prima del cacao en el chocolate apto para consumo. Por lo anterior, se le invita a revisar los siguientes contenidos que le permitirán ampliar los conocimientos:
 
     .bg11
@@ -50,7 +50,7 @@
           .tarjeta.color-primario.p-3
             .row.justify-content-around.align-items-center
               .col-3.col-sm-2.col-lg-1
-                img(src="@/assets/curso/temas/28.svg")
+                img(src="@/assets/curso/temas/v1.svg")
               .col
                 .row.justify-content-between.align-items-center
                   .col.mb-3.mb-sm-0
@@ -66,7 +66,7 @@
           .tarjeta.color-primario.p-3
             .row.justify-content-around.align-items-center
               .col-3.col-sm-2.col-lg-1
-                img(src="@/assets/curso/temas/28.svg")
+                img(src="@/assets/curso/temas/v1.svg")
               .col
                 .row.justify-content-between.align-items-center
                   .col.mb-3.mb-sm-0
@@ -82,7 +82,7 @@
           .tarjeta.color-primario.p-3
             .row.justify-content-around.align-items-center
               .col-3.col-sm-2.col-lg-1
-                img(src="@/assets/curso/temas/9.svg")
+                img(src="@/assets/curso/temas/v2.svg")
               .col
                 .row.justify-content-between.align-items-center
                   .col.mb-3.mb-sm-0
@@ -133,12 +133,12 @@
           .tarjeta.color-acento-botones.p-3(x="7%" y="53%" numero="+")
             p.mb-0 Cumplimiento de estándares internacionales de calidad de exportación para poder ser competitivos a nivel internacional.   
 
-    .row.justify-content-center.align-items-center.mb-5           
+    .row.justify-content-center.align-items-center        
       .col-lg-10(data-aos="flip-down")
         .tarjeta.color-primario.p-3
           .row.justify-content-around.align-items-center
             .col-3.col-sm-2.col-lg-1
-              img(src="@/assets/curso/temas/9.svg")
+              img(src="@/assets/curso/temas/v2.svg")
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
@@ -153,20 +153,20 @@
 
     .bg13
       .row.justify-content-center.align-items-center.mb-0         
-        .col-lg-10.d-none.d-lg-block.bgw.p-5       
+        .col-lg-10.d-none.d-lg-block.bgw.p-4.pt-0       
           .titulo-sexto.color-acento-contenido(data-aos="zoom-in-left")
             h5 Figura 5. 
             span Identificación del producto.
           img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/35.png', alt='') 
-        .col-lg-10.d-block.d-lg-none.bgw.p-5  
+        .col-lg-10.d-block.d-lg-none.bgw.p-4.pt-0    
           .titulo-sexto.color-acento-contenido(data-aos="zoom-in-left")
             h5 Figura 5. 
             span Identificación del producto.
           img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/35_1.png', alt='')
       .row.justify-content-center.align-items-stretch.mb-4.mt-0          
-        .col-lg-4.bgw.p-5 
+        .col-lg-4.bgw
           img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/37.png', alt='')
-        .col-lg-6.bgw.p-5 
+        .col-lg-6.bgw.p-5.pt-0.mov 
           p(data-aos="fade-down") El área de trabajo siempre debe permanecer en condiciones de limpieza acordes con la actividad (elaboración de alimentos); por tal razón, para la recepción de las materias primas, se debe contar con recipientes adecuados y limpios para evitar contaminar el producto, y, así mismo, los materiales y equipos usados en el proceso de recepción deben estar calibrados y limpiarse diariamente.
 
           p(data-aos="fade-down").mb-0 En la evaluación inicial del producto, se debe tener dispuestos unos equipos, entre los que se destacan una balanza debidamente calibrada, etiquetas de identificación, una cuchara para las tomas de muestras, una guillotina de corte, recipientes para separación, entre otros.            
@@ -207,15 +207,15 @@
               p.mb-0 #[b.bwn El almacenamiento del cacao se debe realizar en un lugar con buenas condiciones de ventilación y que esté libre de humedades,] ya que las condiciones de humedad relativa deben estar en el rango del 5 al 70 %, pues el fruto es susceptible de absorber la humedad del ambiente, provocando daños en su interior. Asimismo, el lugar debe estar libre de olores o combustibles, productos agrícolas u otros que afecten sus propiedades físicas.   
       p(data-aos="fade-down").mb-5 #[b.bwn También es importante que, antes de realizar el almacenamiento de las cargas, pasarlas por un proceso de limpieza, para evacuar los sólidos e impurezas que se producen en el proceso de cosecha y transporte.] 
 
-      .row.justify-content-center.align-items-center.mb-5           
+      .row.justify-content-center.align-items-center          
         .col-lg-10
-          .row.justify-content-center.align-items-center.mb-5.bg10.p-4
-            .col-2
+          .row.justify-content-center.align-items-center.mb-5.bg10.p-1
+            .col-auto.my-3
               img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/40.svg', alt='')
-            .col-10
+            .col-10.my-3
               p(data-aos="fade-down").mb-0 El saco de cacao tiene alrededor de 60 kg de peso y no se deben almacenar por más de 6 filas, ya que el propio peso puede fracturar los granos, generando nuevamente residuos no aceptables para el proceso de transformación. #[b.bwn Los granos deben estar enteros, libres de insectos, basuras y piedras. Los sacos se estiban o colocan sobre polines de madera para evitar que entren en contacto con el suelo.]
 
-      .row.justify-content-center.align-items-center.my-5           
+      .row.justify-content-center.align-items-center.mb-3           
         .col-lg-10(data-aos="flip-down")
           .tarjeta.color-primario.p-3
             .row.justify-content-around.align-items-center
@@ -232,7 +232,7 @@
                       span Enlace <i>web</i>
                       i.fas.fa-link    
 
-      .row.justify-content-center.align-items-center.my-5           
+      .row.justify-content-center.align-items-center           
         .col-lg-10(data-aos="flip-down")
           .tarjeta.color-primario.p-3
             .row.justify-content-around.align-items-center
@@ -243,11 +243,11 @@
                   .col.mb-3.mb-sm-0
                     h4 Procasur
                     p.mb-0 En adición, es importante conocer el proceso de cosecha y beneficio del cacao, como parte de su clasificación y almacenamiento, por lo que le invitamos a revisar el siguiente video.
-                  .col-sm-auto
+                  .col-sm-auto.my-3
                     a.boton.color-acento-botones(href="https://aprocasur.org/" target="_blank")
                       span Enlace <i>web</i>
                       i.fas.fa-link  
-                  .col-sm-auto
+                  .col-sm-auto.my-3
                     a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=BOGWZWfrxHw" target="_blank")
                       span ver video
                       i.fas.fa-play-circle                        
@@ -258,11 +258,11 @@
 
       p(data-aos="fade-down").mb-5 #[b.bwn El proceso de conservación del chocolate es muy delicado, dado que este producto y sus derivados son muy sensibles a los cambios de temperatura], por lo que, para una correcta conservación y refrigeración industrial del chocolate y para que mantenga todas sus propiedades, el chocolate debe estar, de forma general, en las siguientes condiciones:
 
-      .row.justify-content-center.align-items-center.mb-5.bg15.p-5          
-        .col-lg-3.my-3
+      .row.justify-content-center.align-items-center.mb-5.bg15          
+        .col-lg-4.my-4
           img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/42.png', alt='')
 
-        .col-lg-7.my-3
+        .col-lg-7.my-4
           ul.lista-ul(data-aos="fade-down")
             li 
               i.lista-ul__vineta.colorv1

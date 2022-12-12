@@ -425,15 +425,15 @@
 
 .slyder-a__btn--sigt, .slyder-a__btn--atrs
   @media (max-width: 810px)
-    width: 35px
-    height: 35px
+    width: 45px
+    height: 45px
   @media (max-width: $bp-max-sm )
-    width: 25px
-    height: 25px  
+    width: 35px
+    height: 35px  
 .slyder-a__bullets__item    
   @media (max-width: 810px)
-    width: 10px
-    height: 10px  
+    width: 15px
+    height: 15px  
     margin: 0 3px   
   @media (max-width: $bp-max-sm)
     width: 10px
@@ -504,7 +504,18 @@
     background-image: url('../assets/curso/temas/67.png')
     background-size: 100% auto  
     background-repeat: no-repeat
-    background-position: center top    
+    background-position: center top
+    @media (max-width: 810px)
+      background-image: url('../assets/curso/temas/67_1.png')
+      background-color: #FFF7E1 
+      height: 42% 
+      margin-top: -5rem 
+    @media (max-width: $bp-max-sm)
+      background-image: url('../assets/curso/temas/67_1.png')
+      background-color: #FFF7E1 
+      height: 38% 
+      margin-top: -1rem         
+     
 
 .bg21
   background-image: url(../assets/curso/temas/68.png)
@@ -528,3 +539,31 @@
     background-repeat: no-repeat
     background-position: center top
     background-color: #E1DDDB   
+
+.lista-ul__vineta::before
+  font-size: 30px 
+  line-height: 0.8em    
+
+.bg23
+  background-color: #E1DDDB
+  border-top: 1rem solid #C0B3AE   
+
+.bg24
+  background-color: #FFF6DF
+  border-top: 1rem solid #FEE4A4 
+
+.bg25
+  background-color: #FEDEC7
+  border-top: 1rem solid #FFBF91  
+
+.img-top
+  margin-top: -0.5rem !important
+  width: 118px !important
+
+.mov
+  @media (max-width: $bp-max-sm)
+    padding: 1rem !important    
+
+.mov1
+  @media (max-width: $bp-max-sm)
+    padding: 0.5rem !important    

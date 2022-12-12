@@ -31,7 +31,7 @@
         .col-lg-2.my-3
           img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/24.png', alt='') 
 
-      .row.justify-content-center.align-items-center.mb-4.bg7.p-5           
+      .row.justify-content-center.align-items-center.mb-4.bg7.p-5.mov
         .col-lg-4.my-3
           img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/25.png', alt='')
         .col-lg-6.my-3 
@@ -73,7 +73,28 @@
         .titulo-sexto.color-acento-contenido(data-aos="zoom-in-left")
           h5 Figura 4. 
           span Tipos de cacao.
-        img.img-a.img-t.mb-5(data-aos="zoom-in")(src='@/assets/curso/temas/27.svg', alt='') 
+
+        .row.justify-content-center.mb-5(data-aos="zoom-in-left")
+          .col-md-6.col-lg.mb-5.mb-lg-0
+            .tarjeta-avatar
+              img.img-top.img-t.img-a(src='@/assets/curso/temas/27_1.png' alt='')
+              .bg23.h-100
+                .p-4.pt-5
+                  p <b>Cacao criollo</b> (procedente de América Central y de América del Sur).
+
+          .col-md-6.col-lg.mb-5.mb-lg-0
+            .tarjeta-avatar
+              img.img-top.img-t.img-a(src='@/assets/curso/temas/27_2.png' alt='')
+              .bg24.h-100
+                .p-4.pt-5
+                  p <b>Cacao criollo</b> (procedente de América Central y de América del Sur).
+
+          .col-md-6.col-lg.mb-5.mb-lg-0
+            .tarjeta-avatar
+              img.img-top.img-t.img-a(src='@/assets/curso/temas/27_3.png' alt='')
+              .bg25.h-100
+                .p-4.pt-5
+                  p <b>Cacao trinitario</b> (híbrido de las dos anteriores). 
 
         p(data-aos="fade-down").text-center Cada tipo de cacao tiene sus características y es empleado en procesos particulares dependiendo de la demanda del producto. 
 

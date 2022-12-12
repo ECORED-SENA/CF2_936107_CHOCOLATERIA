@@ -46,7 +46,7 @@
                 img.img-w(src='@/assets/curso/temas/64.svg' alt='AvatarTop')
                 .tarjeta.color-secundario
                   .p-4
-                    h2.text-center Corto plazo
+                    h4.text-center Corto plazo
                     p El almacenamiento a corto plazo es un proceso común con todos los productos para facilitar su comercialización. 
 
             .col-md-6.col-lg.mb-5.mb-lg-0
@@ -54,14 +54,14 @@
                 img.img-w(src='@/assets/curso/temas/65.svg' alt='AvatarTop')
                 .tarjeta.color-secundario
                   .p-4
-                    h2.text-center No planeado
+                    h4.text-center No planeado
                     p El almacenamiento no planeado es cuando la producción está por encima de la demanda; las causas pueden ser: muy buenas cosechas, mala planificación, pérdida de mercado.    
             .col-md-6.col-lg.mb-5.mb-lg-0
               .tarjeta-avatar
                 img.img-w(src='@/assets/curso/temas/66.svg' alt='AvatarTop')
                 .tarjeta.color-secundario
                   .p-4
-                    h2.text-center A largo plazo
+                    h4.text-center A largo plazo
                     p El almacenamiento a largo plazo es cuando las características del producto lo permitan y las condiciones del mercado lo exijan.
 
     .bg20
@@ -132,12 +132,12 @@
           span  Manejo integral de residuos sólidos.
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/74_1.svg', alt='')  
 
-    .row.justify-content-center.align-items-center.mb-5.pb-5       
+    .row.justify-content-center.align-items-center  
       .col-lg-10
         p(data-aos="fade-down").mb-5 Como conclusión, este documento brinda los conocimientos básicos en la recepción y verificación del cacao y materias primas, así como cada uno de los procedimientos que se deben realizar para la obtención de los productos finales que salen al mercado.
         .row.justify-content-center.align-items-center.bgw.brad   
           .col-lg-8
-            .p-5
+            .p-5.mov1
               p(data-aos="fade-down") Siempre es recomendable realizar una ampliación de los conocimientos realizando consultas en la amplia bibliografía que existe sobre el tema y revisando los artículos de apoyo que se registran en este documento.
 
               p(data-aos="fade-down").mb-0 La producción agrícola, por lo general, está en constante evolución gracias a los avances tecnológicos que se presentan en las industrias, ya sea por la mejora de las condiciones de las materias primas o por la inclusión de maquinaria y equipos más sofisticados; por tal razón, siempre es recomendable indagar sobre dichos avances para estar a la vanguardia del sistema productivo.                             
