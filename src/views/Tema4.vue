@@ -26,11 +26,11 @@
                   .col.mb-3.mb-sm-0
                     h4 Normatividad
                     p.mb-0 Para consultar sobre la normatividad vigente en temas de calidad del grano del cacao, puede acceder a las siguientes páginas:
-                  .col-sm-auto
+                  .col-sm-auto.my-3
                     a.boton.color-acento-botones(href="https://www.iso.org/standard/7116.html" target="_blank")
                       span Enlace web
                       i.fas.fa-link    
-                  .col-sm-auto
+                  .col-sm-auto.my-3
                     a.boton.color-acento-botones(href="https://colombiamide.inm.gov.co/nuevas-normas-o-estandares-disponibles-para-las-cadenas-de-cacao-y-aguacate-hass-aprobados-por-icontec-y-gestionados-por-colombiamide/" target="_blank")
                       span Enlace web
                       i.fas.fa-link                          
