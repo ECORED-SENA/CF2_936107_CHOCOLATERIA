@@ -86,7 +86,7 @@
                 .row.justify-content-between.align-items-center
                   .col.mb-3.mb-sm-0
                     h4 Toma de muestra del cacao
-                    p.mb-0 Para profundizar en el tema, le invitamos a revisar el documento ¨Manual para la evaluación de la calidad del grano del cacao¨, de la Fundación Hondureña de Investigación Agrícola, capítulo cuarto.
+                    p.mb-0 Para profundizar en el tema, le invitamos a revisar el documento "Manual para la evaluación de la calidad del grano del cacao", de la Fundación Hondureña de Investigación Agrícola, capítulo cuarto.
 
                   .col-sm-auto
                     a.boton.color-acento-botones(:href="obtenerLink('/downloads/Manual_para_la_Evaluacion_de_la_Calidad_del_Grano_de_Cacao.pdf')" target="_blank")

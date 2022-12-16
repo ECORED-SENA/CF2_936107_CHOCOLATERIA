@@ -116,7 +116,7 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  h4 ¨La Cosecha¨ Productores de Cacao
+                  h4 "La Cosecha" Productores de Cacao
                   p.mb-0 Figura 2, ejemplo formato de libro diario.
                 .col-sm-auto
                   a.boton.color-acento-botones(:href="obtenerLink('/downloads/anex2.pdf')" target="_blank")

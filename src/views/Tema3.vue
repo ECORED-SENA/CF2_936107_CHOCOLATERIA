@@ -57,7 +57,7 @@
                     h4 Elaboración del chocolate 1
                     p.mb-0 Tv Agro, Cómo sembrar y convertir cacao en chocolate.
                   .col-sm-auto
-                    a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=Yky7H-2hWpE" target="_blank")
+                    a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=CscHPgftTaQ" target="_blank")
                       span Ver video
                       i.fas.fa-play-circle    
 
@@ -73,7 +73,7 @@
                     h4 Elaboración del chocolate 2 
                     p.mb-0 Tv Agro, Transformación del cacao en chocolate.
                   .col-sm-auto
-                    a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=Yky7H-2hWpE" target="_blank")
+                    a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=IEvB2qJ_SYE" target="_blank")
                       span Ver video
                       i.fas.fa-play-circle
 
@@ -143,7 +143,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   h4 Manipulación de alimentos
-                  p.mb-0 Para profundizar en el aprendizaje, le invitamos a conocer el contenido del ¨Manual de capacitación para manipuladores de alimentos¨ de la OPS.
+                  p.mb-0 Para profundizar en el aprendizaje, le invitamos a conocer el contenido del "Manual de capacitación para manipuladores de alimentos" de la OPS.
                 .col-sm-auto
                   a.boton.color-acento-botones(:href="obtenerLink('/downloads/Manual_capacitacion_manipuladores-alimentos.pdf')" target="_blank")
                     span Descargar
