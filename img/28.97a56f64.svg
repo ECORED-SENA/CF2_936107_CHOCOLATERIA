@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="70.657" height="66.916" viewBox="0 0 70.657 66.916">
+  <g id="Grupo_160170" data-name="Grupo 160170" transform="translate(-304.236 -2644.039)">
+    <g id="editar_1_" data-name="editar(1)" transform="translate(303.8 2642.673)">
+      <path id="Trazado_603810" data-name="Trazado 603810" d="M15.88,9.81C12.249,23.24,2.8,30.582,1.048,37.055s-1.7,21.07,28.07,29.12S68.2,57.121,70.127,50C79.14,16.667,22.311-13.977,15.88,9.81Z" transform="translate(0 0)" fill="#efefef"/>
+      <g id="Grupo_158785" data-name="Grupo 158785" transform="translate(51.98 5.658)">
+        <path id="Trazado_603819" data-name="Trazado 603819" d="M0,0H2.011V4.023H0Z" transform="translate(0.357 46.996) rotate(-45)" fill="#fcc02d"/>
+        <path id="Trazado_603820" data-name="Trazado 603820" d="M0,0H2.011V4.023H0Z" transform="translate(8.534 55.174) rotate(-45)" fill="#fcc02d"/>
+        <path id="Trazado_603821" data-name="Trazado 603821" d="M0,0H4.023V2.011H0Z" transform="translate(0 56.594) rotate(-45)" fill="#fcc02d"/>
+        <path id="Trazado_603822" data-name="Trazado 603822" d="M0,0H4.023V2.011H0Z" transform="translate(8.179 48.419) rotate(-45)" fill="#fcc02d"/>
+        <path id="Trazado_603823" data-name="Trazado 603823" d="M32.017,9.534a3.017,3.017,0,1,1,3.017-3.017A3.021,3.021,0,0,1,32.017,9.534Zm0-4.023a1.006,1.006,0,1,0,1.006,1.006A1.006,1.006,0,0,0,32.017,5.511Z" transform="translate(-23.089 -3.5)" fill="#fcc02d"/>
+      </g>
+    </g>
+    <path id="Polígono_58" data-name="Polígono 58" d="M5.5,0,11,10H0Z" transform="matrix(-0.052, 0.999, -0.999, -0.052, 344.846, 2666.512)" fill="#fd7f23"/>
+    <path id="video-marketing_3_" data-name="video-marketing(3)" d="M22.037,9.985a3.5,3.5,0,0,0-5.262,3.039v8.939A3.5,3.5,0,0,0,22.037,25l7.7-4.469a3.516,3.516,0,0,0,0-6.079Zm-1.673,11.84V13.163l7.464,4.331ZM42.343,18.75V7.178a3.593,3.593,0,0,0-3.588-3.588H7.176A3.593,3.593,0,0,0,3.588,7.178V27.811A3.593,3.593,0,0,0,7.176,31.4H38.754a3.593,3.593,0,0,0,3.588-3.588,1.794,1.794,0,0,1,3.588,0,7.185,7.185,0,0,1-7.177,7.177H7.176A7.185,7.185,0,0,1,0,27.811V7.178A7.185,7.185,0,0,1,7.176,0H38.754a7.185,7.185,0,0,1,7.177,7.177V18.75a1.794,1.794,0,1,1-3.588,0Zm3.588,23.5a1.794,1.794,0,0,1-1.794,1.794H21.082a1.794,1.794,0,0,1,0-3.588H44.137A1.794,1.794,0,0,1,45.931,42.254Zm-30.232.09a3.589,3.589,0,0,1-6.747,1.7H1.794a1.794,1.794,0,1,1,0-3.588H9.057A3.588,3.588,0,0,1,15.7,42.344Zm0,0" transform="translate(315 2654.529)"/>
+  </g>
+</svg>
